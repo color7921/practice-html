@@ -10,6 +10,14 @@
 - VSCode
     - Live Server
 
-
 ## TODO
 - [X] 헤더완성
+- [X] 메인
+    - 
+
+
+## Ref.
+
+- [Font Awesome]
+- [코딩 자율학습 HTML + CSS + 자바스크립트]
+- [구글 폰트작성 https://fonts.google.com/specimen/Varela+Round?query=varela]
